@@ -17,3 +17,5 @@ test/version_tmp
 tmp
 vendor/assets/javascripts/my-app.js
 vendor/assets/stylesheets/my-app.css
+
+.idea
